@@ -1,0 +1,6 @@
+.DS_Store
+images/*.pdf
+images/profile-original.png
+*.md
+*.txt
+!robots.txt

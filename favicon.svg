@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Hand-drawn katakana "go", the menacing sound effect from JoJo's Bizarre Adventure -->
+  <g transform="rotate(-8 32 32)" fill="#8a2be2" stroke="#1d0533" stroke-width="2.5" stroke-linejoin="miter">
+    <path d="M8 24 H38 V47 H42 V57 H6 V47 H28 V34 H8 Z"/>
+    <path d="M42 10 H47 L49 21 H44 Z"/>
+    <path d="M52 10 H57 L59 21 H54 Z"/>
+  </g>
+</svg>
